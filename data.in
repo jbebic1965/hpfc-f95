@@ -1,0 +1,16 @@
+&circuit
+angPb = 90.
+kXs   = 0.5
+Vxmax = 0.15
+Vymax = 0.15
+V1ref = 0.88
+V2ref = 0.88
+angBm = 40.
+posBm =  4
+negBm = -1
+/
+
+&plot
+xc = 10
+yc  = 0.
+/
